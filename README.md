@@ -1,3 +1,5 @@
+![OOB Fleet Doctor dashboard](dashboard.webp)
+
 # Opengear Lighthouse Lab
 
 This repository contains notes and read-only diagnostic tools for an Opengear
@@ -104,4 +106,3 @@ the imported disk on `scsi0`, and `boot: order=scsi0`.
 dashboard.
 
 See [README-fleetdoctor.md](README-fleetdoctor.md) for the short usage guide.
-
